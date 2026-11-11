@@ -6,7 +6,7 @@ All reels publish Wednesday 9:30 PM Saudi time.
 | Reel | Publish | Title | File | Length | Status |
 |---|---|---|---|---|---|
 | R1 | Wed 4 Nov | وين راحت الفلوس؟ | R1.mp3 | 29.6 s | Produced → reels/R1.mp4 |
-| R2 | Wed 11 Nov | فاتورة في ثواني | R2.mp3 | 22.1 s | Waiting for production |
+| R2 | Wed 11 Nov | فاتورة في ثواني | R2.mp3 | 22.1 s | Produced → reels/R2.mp4 |
 | R3 | Wed 18 Nov | الجرد بالعين ما يكفي | R3.mp3 | 20.2 s | Waiting for production |
 | R4 | Wed 25 Nov | العرض اللي خسّرني | R4.mp3 | 23.2 s | Waiting for production |
 | R5 | Wed 2 Dec | غلطة الخمسطعش بالمية | R5.mp3 | 25.8 s | Waiting for production |
